@@ -1,5 +1,5 @@
 # Shingotchi Project Setup
-A Tamagotchi-style pet game for me and my boyfriend. :)
+A Tamagotchi-style pet game for me and my boyfriend who's last name is Shin.
 
 **Day 1: Project Setup & Hello Pet**
 - Create a new GitHub repo for your project.
