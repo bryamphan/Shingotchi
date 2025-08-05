@@ -1,0 +1,12 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f6f8fc;
+  color: #333;
+  text-align: center;
+  padding-top: 60px;
+}
+
+#pet {
+  font-size: 6rem;
+  margin: 40px 0;
+}
