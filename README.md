@@ -1,4 +1,4 @@
-# Shingotchi
+# Shingotchi Project Setup
 A Tamagotchi-style pet game for me and my boyfriend. :)
 
 **Day 1: Project Setup & Hello Pet**
