@@ -1,6 +1,9 @@
 # Shingotchi Project Setup
 A Tamagotchi-style pet game for me and my boyfriend who's last name is Shin.
 
+- Mock-up on Figma
+- Create sprites/assets
+
 **Day 1: Project Setup & Hello Pet**
 - Create a new GitHub repo for your project.
 - Set up a basic web project (index.html, style.css, script.js).
